@@ -5,6 +5,5 @@ metadata:
 spec:
   sourceType: grpc
   image: us.icr.io/garage-dev-tools/memcached-operator-catalog
-
-  displayName: memcached-operator-catalog
+  displayName: Memcached Operator
   publisher: grpc
